@@ -42,17 +42,12 @@ Y_pred = m*X + c
 #Predict the output
 print (Y_pred)
 
-
-
-
-
-
 ```
-## Output
-</br>
-</br>
-</br>
-</br>
+## Output:
+![](/Screenshot%202023-01-26%20175034.png)
+![](/Screenshot%202023-01-26%20175049.png)
+![](/uni.jpg)
+![](/uni%201.jpg)
 
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
